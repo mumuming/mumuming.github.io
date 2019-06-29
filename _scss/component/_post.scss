@@ -12,7 +12,9 @@
     h2 { 
       margin: 2em 0 1em 0;
       font-size: 1.0rem; 
+      color: #147ba7;
     }
+    
     h3, h4, h5, h6 {
       margin: 2em 0 1em 0;
       font-size: 0.8rem;
@@ -20,9 +22,9 @@
   }
 
   .post-title {
-    color: #5D5D5D;
+    color: #505050;
     margin-top: 0;
-  }
+  } 
 
   .post-date {
     display: inline-block;
@@ -37,6 +39,10 @@
     .fa{
       margin-right: .2em;
     }
+  }
+
+  .post-more a{
+    color:palevioletred;
   }
 
   article {
@@ -58,8 +64,8 @@
   margin-top: 0;
 }
 .related-posts li small {
-  font-size: 75%;
-  color: #5D5D5D;
+  font-size: 70%;
+  color: #505050;
 }
 .related-posts li a:hover {
   color: $theme-color;

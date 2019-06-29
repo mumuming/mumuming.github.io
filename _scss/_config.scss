@@ -15,7 +15,7 @@ $white:      #fff;
 $lightgrey:  #eee;
 $black:      #000;
 
-$theme-color: #FFA7A7;
+$theme-color: #75b5aa;
 $theme-color-dark: darken($theme-color, 10%);
 
 $post-date-color: #9a9a9a;
@@ -27,6 +27,8 @@ $reverse-layout: true;
 $overlay-sidebar: false;
 
 /* Font stack */
-$font-serif: "PT Serif", Georgia, "Times New Roman", serif;
-$font-sans: "PT Sans", Helvetica, Arial, sans-serif;
+/*$font-serif: "PT Serif", Georgia, "Times New Roman", serif;*/
+/*$font-sans: "PT Sans", Helvetica, Arial, sans-serif;*/
+$font-serif: "Nanum Gothic", sans-serif;
+$font-sans: "Nanum Gothic", sans-serif;
 $font-font-awesome: FontAwesome;
