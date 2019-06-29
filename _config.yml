@@ -1,12 +1,5 @@
 # Site Info
-<<<<<<< HEAD
 title: Ming's devlog
-=======
-title: Ming's Blog
-<<<<<<< HEAD
->>>>>>> d19e8a8b6a788f03679ec3b5f45aeca35cec0277
-=======
->>>>>>> d19e8a8b6a788f03679ec3b5f45aeca35cec0277
 tagline: 
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
